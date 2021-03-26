@@ -46,27 +46,33 @@ Things you may want to cover:
 <h2>Technologies</h2>
 <h2>Specifications</h2>
 <h2>User Stories</h2>
+
 ```
 As a User,
 So that I can socialise,
 I would like to be able to post pictures
 ```
+
 ```
 As a User,
 So that I can socialise,
 I would like to be able to comment on posts
 ```
+
 ```
 As a user,
 For peace of mind,
 I would like to be able to login and logout
 ```
+
 ### Extra
+
 ```
 As a user,
 So that I can socialise,
 I would like to be able to like a post
 ```
+
 <h2>Planning</h2>
 <h2>Screenshots<h2>
 <h2>Setup</h2>
